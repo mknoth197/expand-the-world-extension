@@ -1,0 +1,25 @@
+{
+  "name": "expand-the-world-extension",
+  "version": "1.0.0",
+  "description": "Google Chrome Extension to create Artificial Intelligence generated imagery that expands whats found in the browser context",
+  "main": "background.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mknoth197/expand-the-world-extension.git"
+  },
+  "author": "mknoth197",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mknoth197/expand-the-world-extension/issues"
+  },
+  "homepage": "https://github.com/mknoth197/expand-the-world-extension#readme",
+  "dependencies": {
+    "chrome-types": "^0.1.295",
+    "eslint": "^9.8.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}
